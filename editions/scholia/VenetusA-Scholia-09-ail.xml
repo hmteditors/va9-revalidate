@@ -1548,7 +1548,7 @@ style simple scholia" alternate="no"?>
                            <abbr>μηρ</abbr>
                            <expan>μητηρ</expan>
                         </choice>
-                        <persName n="urn:cite2:hmt:pers.r1:pers312">Μελεάγρου</persName></p>
+                        <persName n="urn:cite2:hmt:pers.v1:pers312">Μελεάγρου</persName></p>
                   </div>
                </div>
                <div n="538" type="scholion">
@@ -1559,7 +1559,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:9.557</p>
                   </div>
                   <div n="comment">
-                     <p><persName n="urn:cite2:hmt:pers.r1:pers83">Άρεως</persName> παῖς: </p>
+                     <p><persName n="urn:cite2:hmt:pers.v1:pers83">Άρεως</persName> παῖς: </p>
                   </div>
                </div>
                <div n="539" type="scholion">
@@ -1608,8 +1608,8 @@ style simple scholia" alternate="no"?>
                            <expan>ουτως</expan>
                         </choice>
                         <choice>
-                           <abbr><persName n="urn:cite2:hmt:pers.r1:pers15">Ζηνοδ</persName></abbr>
-                           <expan><persName n="urn:cite2:hmt:pers.r1:pers15">Ζηνοδοτος</persName></expan>
+                           <abbr><persName n="urn:cite2:hmt:pers.v1:pers15">Ζηνοδ</persName></abbr>
+                           <expan><persName n="urn:cite2:hmt:pers.v1:pers15">Ζηνοδοτος</persName></expan>
                         </choice> χρονικως</p>
                   </div>
                </div>
@@ -1756,7 +1756,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:9.601</p>
                   </div>
                   <div n="comment">
-                     <p><placeName type="ethnic" n="urn:cite2:hmt:place.r1:place76">Ἀττικως</placeName> φίλος</p>
+                     <p><placeName type="ethnic" n="urn:cite2:hmt:place.v1:place76">Ἀττικως</placeName> φίλος</p>
                   </div>
                </div>
                <div n="595" type="scholion">
