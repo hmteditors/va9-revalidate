@@ -1,7 +1,8 @@
 urn#citationScheme#groupName#workTitle#versionLabel#exemplarLabel#online#language
-urn:cts:greekLit:tlg0012.tlg001.msB:#book,line#Homeric poetry#Iliad#HMT project archival XML edition##true#grc
-urn:cts:greekLit:tlg0012.tlg001.e3:#book,line#Homeric poetry#Iliad#HMT project archival XML edition##true#grc
-urn:cts:greekLit:tlg5026.e3.hmt:#book,scholion#Scholia to the Iliad#Escorial Upsilon 1.1#HMT project archival XML edition##true#grc
-urn:cts:greekLit:tlg5026.msB.hmt:#book,scholion#Scholia to the Iliad#Escorial Upsilon 1.1#HMT project archival XML edition##true#grc
-urn:cts:greekLit:tlg7000.tlg001.e3:#line#The Greek Anthology#Metrical summaries of books of the Iliad#Upsilon 1.1##true#grc
-urn:cts:greekLit:tlg7000.tlg001.msB:#line#The Greek Anthology#Metrical summaries of books of the Iliad#Venetus B##true#grc
+urn:cts:greekLit:tlg7000.tlg001.msA:#line#The Greek Anthology#Metrical summaries of books of the Iliad#Venetus A##true#grc
+urn:cts:greekLit:tlg0012.tlg001.msA:#book,line#Homeric poetry#Iliad#HMT project archival XML edition##true#grc
+urn:cts:greekLit:tlg5026.msA.hmt:#book,scholion#Main scholia to the Iliad#Venetus A#HMT project archival XML edition##true#grc
+urn:cts:greekLit:tlg5026.msAim.hmt:#book,scholion#Intermarginal scholia to the Iliad#Venetus A#HMT project archival XML edition##true#grc
+urn:cts:greekLit:tlg5026.msAint.hmt:#book,scholion#Interior scholia to the Iliad#Venetus A#HMT project archival XML edition##true#grc
+urn:cts:greekLit:tlg5026.msAext.hmt:#book,scholion#Exterior scholia to the Iliad#Venetus A#HMT project archival XML edition##true#grc
+urn:cts:greekLit:tlg5026.msAil.hmt:#book,scholion#Interlinear scholia to the Iliad#Venetus A#HMT project archival XML edition##true#grc
