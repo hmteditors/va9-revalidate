@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Iliad</title>
+        <editor>Sierra Rasmussen</editor>
+        <editor>Libby Hodgman</editor>
+        <editor>Eunice Kim</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished edition of the Escorial manuscript Upsilon 1.1 for the Homer Multitext project</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Edited directly from photography of the manuscript</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="17">
+        <l n="103">ἄμφω κ᾽ αὖτις ἰόντες, ἐπιμνησαίμεθα χάρμης.</l>
+        <l n="104">καὶ πρὸς δαίμονά περ· εἴ πως ἐρυσαίμεθα νεκρὸν</l>
+        <l n="105"><persName n="urn:cite2:hmt:pers.v1:pers184">Πηλείδηι</persName> <persName n="urn:cite2:hmt:pers.v1:pers1">Ἀχιλῆϊ</persName>· κακῶν δέ κε φέρτερον εἴη·</l>
+        <l n="106">ἕως ὃ ταῦθ᾽ ὥρμαινε κατὰ φρένα καὶ κατὰ θυμὸν,</l>
+      </div>
+    </body>
+  </text>
+</TEI>

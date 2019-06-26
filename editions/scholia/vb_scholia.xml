@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Scholia to Venetus B</title>
+                <author>YOUR NAME HERE</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Transcribed from Venetus B MS</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <group n="17">
+            <text n="msB">
+                <body>
+                    <div n="msB_230r_4" type="scholion">
+                        <div n="lemma">
+                            <p><num value="12">ιβ</num></p>
+                        </div>
+                        <div n="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:17.1@ἀτρέος</p>
+                        </div>
+                        <div n="comment">
+                            <p>Scholiion text</p>
+                        </div>
+                    </div>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>
