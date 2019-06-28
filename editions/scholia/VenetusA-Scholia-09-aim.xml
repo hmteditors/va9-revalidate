@@ -254,7 +254,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:9.76</p>
                   </div>
                   <div n="comment">
-                     <p>οὕτως γράφεται <q>ὅτι δήϊοι</q></p>
+                     <p><choice><abbr>ουτ</abbr><expan>οὕτως</expan></choice> γράφεται <q><choice><abbr>οτ</abbr><expan>ὅτι</expan></choice> δήϊοι</q></p>
                   </div>
                </div>
                <div n="91" type="scholion">

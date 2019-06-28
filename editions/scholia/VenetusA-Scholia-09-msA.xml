@@ -649,7 +649,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:9.66</p>
                   </div>
                   <div n="comment">
-                     <p>Ἀρίσταρχος δια τοῦ <rs type="waw">α</rs>
+                     <p><persName n="urn:cite2:hmt:pers.v1:pers16">Ἀρίσταρχος</persName> δια τοῦ <rs type="waw">α</rs>
                         <q>φυλακτῆρας</q>, τοὺς <q>φύλακας</q>⁑</p>
                   </div>
                </div>
@@ -700,7 +700,7 @@ style simple scholia" alternate="no"?>
                         μέντοι τ' ἀκριβοῦς διὰ τῆς <rs type="waw">ει</rs> διφθόγγου τὴν γραφὴν
                         ποιοῦνται: καὶ οὕτως ἔχει ἡ τῶν ἀντι <sic>φάνους</sic> παράδοσις αἱ δὲ <persName
                            n="urn:cite2:hmt:pers.v1:pers16">Ἀριστάρχου</persName> οὕτως εἶχον διὰ τοῦ γάρ, πολέσιν γὰρ
-                        ἔχει δέ τι <persName n="urn:cite2:hmt:pers.v1:pers17">Ὁμηρικὸν</persName>, καὶ ἡ δια τοῦ <rs
+                        ἔχει δέ τι Ὁμηρικὸν, καὶ ἡ δια τοῦ <rs
                            type="waw">δε</rs>⁑</p>
                   </div>
                </div>
