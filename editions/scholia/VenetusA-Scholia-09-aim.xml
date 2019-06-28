@@ -189,7 +189,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:9.52</p>
                   </div>
                   <div n="comment">
-                     <p>τοῖσι δὲ καὶ μετέειπε <persName n="urn:cite2:hmt:pers.v1:pers117">Γερήνιος</persName> ⁑</p>
+                     <p>τοῖσι δὲ καὶ μετέειπε <rs type="ethnic" n="urn:cite2:hmt:place.v1:place115">Γερήνιος</rs> ⁑</p>
                   </div>
                </div>
                <div n="68" type="scholion">
@@ -206,6 +206,7 @@ style simple scholia" alternate="no"?>
                         </choice></persName> ἡμεν καὶ νέος ⁑</p>
                   </div>
                </div>
+
                <div n="87" type="scholion">
                   <div n="lemma">
                      <p/>
