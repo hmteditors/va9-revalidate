@@ -265,7 +265,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:9.78</p>
                   </div>
                   <div n="comment">
-                     <p>δι ενος <rs n="waw">ρ</rs> αἱ <persName n="urn:cite2:hmt:pers.v1:pers16">Ἀρισταρχου</persName></p>
+                     <p>δι ενος <rs type="waw">ρ</rs> αἱ <persName n="urn:cite2:hmt:pers.v1:pers16">Ἀρισταρχου</persName></p>
                   </div>
                </div>
                <div n="113" type="scholion">
@@ -1098,7 +1098,7 @@ style simple scholia" alternate="no"?>
                      <p><choice>
                            <abbr>οτ</abbr>
                            <expan>ὅτι</expan>
-                        </choice> πληθυντικῶς <rs type="waw">θύρας</rs> ἀντι τοῦ <rs n="waw"
+                        </choice> πληθυντικῶς <rs type="waw">θύρας</rs> ἀντι τοῦ <rs type="waw"
                            >θύραν</rs>: </p>
 
                   </div>

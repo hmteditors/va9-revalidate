@@ -613,7 +613,7 @@ style simple scholia" alternate="no"?>
                         ἑξῆς, γίνεται βασιλεῖς ἔειπες ⁑ </p>
                   </div>
                </div>
-               
+
                <div n="80" type="scholion">
                   <div n="lemma">
                      <p>διΐξομαι</p>
@@ -724,7 +724,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:9.77</p>
                   </div>
                   <div n="comment">
-                     <p>προς ὑπακουστέον τὸ <rs n="waw">ορῶν</rs> καὶ <rs type="waw">βλέπων</rs>
+                     <p>προς ὑπακουστέον τὸ <rs type="waw">ορῶν</rs> καὶ <rs type="waw">βλέπων</rs>
                         γελάση καὶ οὐ μὴ μᾶλλον θρηνήσει καὶ κόψεται καὶ ὅτι τὸ ἔξωθεν τὸ <rs
                            type="waw">ϊδών</rs>⁑</p>
                   </div>
@@ -1856,7 +1856,7 @@ style simple scholia" alternate="no"?>
                   </div>
                   <div n="comment">
                      <p>ζητεῖται δέ διὰ τί προαρπαζει τὸν λόγον ὁ <persName n="urn:cite2:hmt:pers.v1:pers118"
-                           >Ὀδυσσευς</persName> ῥητέον <rs type="supralinear">δὲ</rs> ὅτι καὶ
+                           >Ὀδυσσευς</persName> ῥητέον <add place="supralinear">δὲ</add> ὅτι καὶ
                            <sic>μα</sic> εἰκότως: οὐ δε γὰρ μία ἢν ἐλπὶς προ ἀπο τυχόντων τῶν οἱ
                         κείων αυτου ἐβούλετο δὲ προ ἐκκενώσας τὴν ὀργην ἀναγκάσαι τί τοῖς οἰκείοις
                         προσδοθῆναι χάριτος ⁑</p>
@@ -2721,7 +2721,7 @@ style simple scholia" alternate="no"?>
                   <div n="comment">
                      <p><persName n="urn:cite2:hmt:pers.v1:pers105">Τυραννίων</persName>
                         <note resp="Erbse">(fr. 17 P.)</note> προπερισπᾶ ὡς νοῶσιν ὡς ἀπο τοῦ <rs
-                           n="waw">σωῶ</rs> περισπωμένου ἐπεὶ φησὶ καὶ τὸ εὐκτικὸν <choice>
+                           type="waw">σωῶ</rs> περισπωμένου ἐπεὶ φησὶ καὶ τὸ εὐκτικὸν <choice>
                            <abbr>κατ</abbr>
                            <expan>κατὰ</expan>
                         </choice> ἀποκοπὴν εἶπεν <cit>
@@ -3734,7 +3734,7 @@ style simple scholia" alternate="no"?>
                   </div>
                   <div n="comment">
                      <p>ἡ διπλῆ, ὅτι πρὸς τὸ δεύτερον πρότερον ἀπήντησεν. καὶ ὅτι λείπει ἡ <rs
-                           n="waw">περι</rs> περι <placeName n="urn:cite2:hmt:place.v1:place107">Καλυδῶνος</placeName>⁑
+                           type="waw">περι</rs> περι <placeName n="urn:cite2:hmt:place.v1:place107">Καλυδῶνος</placeName>⁑
                      </p>
                   </div>
                </div>
