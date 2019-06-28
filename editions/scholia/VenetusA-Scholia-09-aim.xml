@@ -1171,11 +1171,9 @@ style simple scholia" alternate="no"?>
                            <abbr>οτ</abbr>
                            <expan>ὅτι</expan>
                         </choice>
-                        persName n="urn:cite2:hmt:pers.v1:pers15"><choice>
-                           <abbr><Ζηνοδ</abbr>
-                           <expan>Ζηνόδoτος</expan>
-                        </choice></persName> γράφεται ὅτι <q><sic>φθανέει</sic></q>: </p>
-
+<persName n="urn:cite2:hmt:pers.v1:pers15">
+  <choice><abbr>Ζηνοδ</abbr><expan>Ζηνόδoτος</expan></choice></persName>
+   γράφεται ὅτι <q><sic>φθανέει</sic></q>: </p>
                   </div>
                </div>
                <div n="507" type="scholion">

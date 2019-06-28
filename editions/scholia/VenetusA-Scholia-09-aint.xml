@@ -757,8 +757,8 @@ style simple scholia" alternate="no"?>
                         </choice> δηλονότι <rs type="waw">ἀλέγουσι</rs> φροντίζουσιν ἵνα ϊάσονται τα <choice>
                            <abbr>υπ</abbr>
                            <expan>ὑπὸ</expan>
-                        </choice> τῆς <persName n="urn:cite2:hmt:pers.v1:pers645"<choice>
-                           <abbr>>Ατ</abbr>
+                        </choice> τῆς <persName n="urn:cite2:hmt:pers.v1:pers645">
+                           <choice><abbr>>Ατ</abbr>
                            <expan>Ατης</expan>
                         </choice></persName>
                         <choice>
