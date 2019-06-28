@@ -1607,10 +1607,10 @@ style simple scholia" alternate="no"?>
                            <abbr>ουτ</abbr>
                            <expan>ουτως</expan>
                         </choice>
-                        <choice>
-                           <abbr><persName n="urn:cite2:hmt:pers.v1:pers15">Ζηνοδ</persName></abbr>
-                           <expan><persName n="urn:cite2:hmt:pers.v1:pers15">Ζηνοδοτος</persName></expan>
-                        </choice> χρονικως</p>
+                        <persName n="urn:cite2:hmt:pers.v1:pers15"><choice>
+                           <abbr>Ζηνοδ</abbr>
+                           <expan>Ζηνοδοτος</expan>
+                        </choice></persName> χρονικως</p>
                   </div>
                </div>
                <div n="568" type="scholion">
@@ -1990,7 +1990,7 @@ style simple scholia" alternate="no"?>
                      <p><choice>
                            <abbr>πο</abbr>
                            <expan>πόλις</expan>
-                        </choice> Φρυγίας</p>
+                        </choice> <rs type="ethnic" n="urn:cite2:hmt:place.v1:place231">Φρυγίας</rs></p>
                   </div>
                </div>
                <div n="653" type="scholion">
@@ -2009,13 +2009,13 @@ style simple scholia" alternate="no"?>
                      <p/>
                   </div>
                   <div n="ref">
-                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:9.688</p>
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:9.668</p>
                   </div>
                   <div n="comment">
                      <p><choice>
                            <abbr>υς</abbr>
                            <expan>υἱὸς</expan>
-                        </choice> Διονύσο</p>
+                        </choice> <persName n="urn:cite2:hmt:pers.v1:pers59">Διονύσο</persName></p>
                   </div>
                </div>
                <div n="655" type="scholion">
