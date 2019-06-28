@@ -41,10 +41,10 @@ style simple scholia" alternate="no"?>
                            <title>Λιτη</title> ὅτι <persName n="urn:cite2:hmt:pers.v1:pers22">Ἀγαμέμνων</persName>
                         <persName n="urn:cite2:hmt:pers.v1:pers117">Νέστορος</persName> συμβουλεύσαντος προς τὸν <persName
                            n="urn:cite2:hmt:pers.v1:pers1">Ἀχιλλέα</persName> ἄνδρας λίσσεσθαι ἔπεμψεν ἀρίστους. <persName
-                           n="urn:cite2:hmt:pers.v1:pers405">Φοίνικα</persName>. <persName n="urn:cite2:hmt:pers.v1:pers118">Ὀδυσσέα</persName>. <choice>
-                           <abbr><persName n="urn:cite2:hmt:pers.v1:pers127">Αἰάντ</persName></abbr>
-                           <expan><persName n="urn:cite2:hmt:pers.v1:pers127">Αίαντα</persName></expan>
-                        </choice>⁑</p>
+                           n="urn:cite2:hmt:pers.v1:pers405">Φοίνικα</persName>. <persName n="urn:cite2:hmt:pers.v1:pers118">Ὀδυσσέα</persName>. <persName n="urn:cite2:hmt:pers.v1:pers127"><choice>
+                           <abbr>Αἰάντ</abbr>
+                           <expan>Αίαντα</expan>
+                        </choice></persName>⁑</p>
                   </div>
                </div>
                <div n="2" type="scholion">
@@ -86,10 +86,10 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:9.3</p>
                   </div>
                   <div n="comment">
-                     <p>ἔνιοι <rs type="waw">βεβλήατο</rs>,καὶ <choice>
-                           <abbr><persName n="urn:cite2:hmt:pers.v1:pers15">Ζηνοδοτ</persName></abbr>
-                           <expan><persName n="urn:cite2:hmt:pers.v1:pers15">Ζηνόδοτος</persName></expan>
-                        </choice> οὕτως ἐπι δὲ τῆς κατα ψυχὴν τρώσεως καὶ ἀλγηδόνος ἀεὶ τοῦτο
+                     <p>ἔνιοι <rs type="waw">βεβλήατο</rs>,καὶ <persName n="urn:cite2:hmt:pers.v1:pers15"><choice>
+                           <abbr>Ζηνοδοτ</abbr>
+                           <expan>Ζηνόδοτος</expan>
+                        </choice></persName> οὕτως ἐπι δὲ τῆς κατα ψυχὴν τρώσεως καὶ ἀλγηδόνος ἀεὶ τοῦτο
                         τάττει. ἐπι δὲ τῆς κατα σῶμα πληγῆς οὐκέτι <choice>
                            <abbr>ουτ</abbr>
                            <expan>οὕτως</expan>
@@ -131,15 +131,15 @@ style simple scholia" alternate="no"?>
                   <div n="comment">
                      <p>ἤτοι συναπτεον <q>ἄητον ἐλθόντ' ἐξαπίνης, ἢ</q> ὑποστικτεον
                            <sic>ἀνυποκρήτως</sic> ἐπι τὸ <rs type="waw">ἄητον</rs> ἵν ᾖ τὸ ἑξῆς
-                              <q><persName n="urn:cite2:hmt:pers.v1:pers471">Βορέης</persName> καὶ <persName n="urn:cite2:hmt:pers.v1:pers320"
+                              <q><persName n="urn:cite2:hmt:pers.v1:pers599">Βορέης</persName> καὶ <persName n="urn:cite2:hmt:pers.v1:pers320"
                               >Ζέφυρος</persName></q> ἐξελθόντες ἐξαπίνης: πῶς δὲ αμφοτέρους ἐκ
                            <placeName n="urn:cite2:hmt:place.v1:place70">Θρακης</placeName> φησὶ πνεῖν τοῦ μένα <persName
-                           n="urn:cite2:hmt:pers.v1:pers71">Βορέου</persName> ἐξ άρκτου τοῦ δὲ ἐκ δύσεως πνέοντος: ῥητέον
+                           n="urn:cite2:hmt:pers.v1:pers599">Βορέου</persName> ἐξ άρκτου τοῦ δὲ ἐκ δύσεως πνέοντος: ῥητέον
                         οὖν ὅτι ἡ τῶν <rs type="ethnic" n="urn:cite2:hmt:place.v1:place70">Θρακῶν</rs> γῆ ἐπι πολὺ διηνεκεῖ
                         καὶ σιγματοειδῶς κεῖται τῇ θεά μέχρι τῆς δύσεως: ἀφ εκατέρου οὖν μέρους τῶν
                         ἀνέμων ἔχει ἑκάτερον: οἱ δὲ φασὶν ὅτι συλληπτικῶς πέφρακας τῷ γὰρ
                            <sic>ἑταίω</sic> συμβεβηκός καθ εκατέρων κεῖται μόνος γὰρ ὁ <persName
-                           n="urn:cite2:hmt:pers.v1:pers471">Βορέας</persName> ἀπο <placeName n="urn:cite2:hmt:place.v1:place70"
+                           n="urn:cite2:hmt:pers.v1:pers599">Βορέας</persName> ἀπο <placeName n="urn:cite2:hmt:place.v1:place70"
                            >Θρᾴκης</placeName> πνεῖ ⁑</p>
                   </div>
                </div>
@@ -155,7 +155,7 @@ style simple scholia" alternate="no"?>
                            >Πάμφιλος</persName>. δασύνουσι τὸ <rs type="waw">αμυδις</rs> ἐπεὶ <choice>
                            <abbr>πα</abbr>
                            <expan>παρα</expan>
-                        </choice> τὸ ἅμα ἐγένετο: ὁ δὲ <persName n="urn:cite2:hmt:pers.v1:pers542">Ἀσκαλωνίτης</persName>
+                        </choice> τὸ ἅμα ἐγένετο: ὁ δὲ <persName n="urn:cite2:hmt:pers.v1:pers485">Ἀσκαλωνίτης</persName>
                         καὶ οἱ περὶ <persName n="urn:cite2:hmt:pers.v1:pers341">Ἀλεξίωνα</persName> ψιλοῦσιν: πολλοὶ δὲ
                         πρότερον καὶ οἱ <choice>
                            <abbr>πε</abbr>
@@ -207,7 +207,7 @@ style simple scholia" alternate="no"?>
                         </cit>: <cit>
                            <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:10.349</ref>
                            <q>ὡς ἄρα φωνήσαντε παρὲξ ὁδοῦ</q>
-                        </cit>. ἐνθάδε μὲν οὖν ἡγεῖται <persName n="urn:cite2:hmt:pers.v1:pers542">ὁ
+                        </cit>. ἐνθάδε μὲν οὖν ἡγεῖται <persName n="urn:cite2:hmt:pers.v1:pers485">ὁ
                            Ἀσκαλωνίτης</persName> παρέλκειν τὴν παρά ἵνα ᾖ ἕξω ἁλός. ἄλλοι δὲ τὴν
                            <rs type="waw">παρα</rs> κυρίως κεῖσθαι ἵνα γένηται παρ' ἅλα φῦκος: καὶ
                         τὴν <rs type="waw">εξ</rs> συντάσσεσθαι πρὸς τὸ ἔχευεν ὅπερ καὶ βέλτιον παρ'
@@ -217,13 +217,13 @@ style simple scholia" alternate="no"?>
                            <expan>τρεπει</expan>
                         </choice> τὸ <rs type="waw">ξ</rs>
                         <q>διέκ σωλῆνος εἰς ἄγγος</q>
-                        <note resp="Erbse">Archilochus fr. 213 T</note>. <persName n="urn:cite2:hmt:pers.v1:pers546"
+                        <note resp="Erbse">Archilochus fr. 213 T</note>. <persName n="urn:cite2:hmt:pers.v1:pers105"
                            >Τυραννίων</persName>
                         <note resp="Erbse">fr. 16 P</note> δὲ ἓν μέρος <choice>
                            <abbr>λογ</abbr>
                            <expan>λόγου</expan>
                         </choice> ήκουσεν ἵν ᾖ ἐπίρρημα καὶ βαρύνει καὶ ἔχει λόγον, ὡς <persName
-                           n="urn:cite2:hmt:pers.v1:pers75">Ἡρωιδιανος</persName> ὡς ἔνα <rs type="waw">παρεξ</rs> τοῦ <rs
+                           n="urn:cite2:hmt:pers.v1:pers493">Ἡρωιδιανος</persName> ὡς ἔνα <rs type="waw">παρεξ</rs> τοῦ <rs
                            type="ethnic" n="urn:cite2:hmt:place.v1:place32">Σκυθικοῦ</rs> ἔθνους: παρα δε τῷ ποιητῇ τὸ
                         παρέξ δύο μέρη λόγου εἰσὶ καὶ ἐγκλίνονται αἱ δύο <choice>
                            <abbr>προθ</abbr>
