@@ -102,7 +102,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:9.34</p>
                   </div>
                   <div n="comment">
-                     <p>ὅτι τῶν κατα τήν ἐπιπώλησιν <sic>πλητικῶς</sic> εἰρημένων <choice>
+                     <p><choice><abbr>οτ</abbr><expan>ὅτι</expan></choice> τῶν κατα τήν ἐπιπώλησιν <sic>πλητικῶς</sic> εἰρημένων <choice>
                            <abbr>μέμνητ</abbr>
                            <expan>μέμνηται</expan>
                         </choice> ⁑</p>
@@ -116,7 +116,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:9.34</p>
                   </div>
                   <div n="comment">
-                     <p>τὸ ἐν <rs type="ethnic" n="urn:cite2:hmt:pers.v1:pers500">Δαναοῖσιν</rs> ἴσως τίς ἀξιώσει τοῖς
+                     <p>τὸ ἐν <rs type="ethnic" n="urn:cite2:hmt:pers.v1:pers66">Δαναοῖσιν</rs> ἴσως τίς ἀξιώσει τοῖς
                         ἑξῆς συνάπτειν ἀλλ ου κατεπείγει ⁑</p>
                   </div>
                </div>
