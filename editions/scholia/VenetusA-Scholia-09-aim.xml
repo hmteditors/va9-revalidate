@@ -202,7 +202,7 @@ style simple scholia" alternate="no"?>
                   <div n="comment">
                      <p>δια τοῦ <rs type="waw">ε</rs> αἱ <persName n="urn:cite2:hmt:pers.v1:pers16"><choice>
                            <abbr>Ἀρισταρχ></abbr>
-                           <expan>Ἀρισταρχος</expan>
+                           <expan>Ἀρισταρχου</expan>
                         </choice></persName> ἡμεν καὶ νέος ⁑</p>
                   </div>
                </div>
@@ -572,7 +572,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:9.203</p>
                   </div>
                   <div n="comment">
-                     <p>οὐ κέραιε χωρὶς τοῦ <rs type="waw">ρ</rs> μέμνηται καὶ <persName n="urn:cite2:hmt:pers.v1:pers75"
+                     <p>οὐ κέραιε χωρὶς τοῦ <rs type="waw">ρ</rs> μέμνηται καὶ <persName n="urn:cite2:hmt:pers.v1:pers493"
                            >Ἡρωδιανος</persName>: </p>
                   </div>
                </div>
