@@ -1143,13 +1143,13 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:9.147</p>
                   </div>
                   <div n="comment">
-                     <p><persName n="urn:cite2:hmt:pers.v1:pers15">Ἀρίσταρχος</persName> ἓν μερος λόγου παρέλαβεν ὡς
+                     <p><persName n="urn:cite2:hmt:pers.v1:pers16">Ἀρίσταρχος</persName> ἓν μερος λόγου παρέλαβεν ὡς
                         ἐπιφέρνια: <persName n="urn:cite2:hmt:pers.v1:pers69">Ἀπολλόδωρος</persName>
                         <note resp="Erbse">FGrHist. 244, 248</note> δὲ διαλύει <rs type="waw"
                            >ἐπί</rs> εῖτα <rs type="waw">μείλια</rs> οὕτως δὲ καὶ <persName n="urn:cite2:hmt:pers.v1:pers341"
                            >Ἀλεξίων</persName>
                         <note resp="Erbse">fr. 36 B.</note> καὶ ἐστι τὸ ἑξῆς ἐπιδώσω μείλια:
-                           <persName n="urn:cite2:hmt:pers.v1:pers503">Τρύφων</persName>
+                           <persName n="urn:cite2:hmt:pers.v1:pers501">Τρύφων</persName>
                         <note resp="Erbse">fr. 98 V.</note> δὲ ζητεῖ περι τοῦ τόνου πότερον ὡς
                         ποίμνια ἢ ὡς παιδία ἡμῖν δὲ δοκεῖ τὸ προπαροξυνόμενον πλέον εἶναι: σπάνιον
                         δὲ τὸ παροξυνόμενον εἰ ούτως ὁρισαίμεθα τὰ διὰ τοῦ <rs type="waw">ιον</rs>
@@ -1191,7 +1191,7 @@ style simple scholia" alternate="no"?>
                </div>
                <div n="163" type="scholion">
                   <div n="lemma">
-                     <p><placeName n="urn:cite2:hmt:place.v1:place182">Ϊρήν</placeName>: </p>
+                     <p><placeName n="urn:cite2:hmt:place.v1:place476">Ϊρήν</placeName>: </p>
                   </div>
                   <div n="ref">
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:9.150</p>
@@ -1224,8 +1224,8 @@ style simple scholia" alternate="no"?>
                         </cit>
                         <cit>
                            <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:18.42</ref>
-                           <q><placeName n="urn:cite2:hmt:place.v1:HELP">Ἀγυή</placeName></q>
-                        </cit> οὕτως καὶ <placeName n="urn:cite2:hmt:place.v1:place182">Ϊρή</placeName>⁑</p>
+                           <q><persName n="urn:cite2:hmt:pers.v1:pers957">Ἀγυή</persName></q>
+                        </cit> οὕτως καὶ <placeName n="urn:cite2:hmt:place.v1:place476">Ϊρή</placeName>⁑</p>
                   </div>
                </div>
                <div n="164" type="scholion">
