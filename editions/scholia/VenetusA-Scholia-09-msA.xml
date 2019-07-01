@@ -889,9 +889,9 @@ style simple scholia" alternate="no"?>
                   <div n="comment">
                      <p>τὰ νῦν εξακισχιλίων λέγει παρὰ <rs type="ethnic" n="urn:cite2:hmt:place.v1:place1">Ἀθηναιοις</rs>.
                         διαφόρως δὲ νοεῖται: ἦν γὰρ καὶ βραχύ τι παρὰ τοῖς <sic>ἀρχαῖοις</sic> καὶ ὁ
-                        ποιητής δὲ δῆλον ἡμῖν τοῦτο ποιεῖ ἐν τῷ ἐπι ταφίῳ. <persName n="urn:cite2:hmt:pers.v1:pers158"
+                        ποιητής δὲ δῆλον ἡμῖν τοῦτο ποιεῖ ἐν τῷ ἐπιταφίῳ. <persName n="urn:cite2:hmt:pers.v1:pers158"
                            >Πατρόκλου</persName> λέγων <cit>
-                           <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:23.262</ref>
+                           <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:23.262-23.269</ref>
                            <q>ἱππεῦσι μὲν πρῶτα ποδώκεος ἀγλαὰ ἄεθλα θῆκ' ἠε γυναῖκα ἄγεσθαι ἀμύμονα
                               ἔργ' εἰδυῖα, καὶ τρίποδ' <sic>ὠτόεντα</sic> δύο καὶ <sic>εἰκοσί</sic>
                               μετρον: τῷ πρώτω ἀτὰρ αὐτῷ δευτέρω ἵππον θῆκαν ἑξετε ἀδμήτην βρέφος
@@ -909,10 +909,10 @@ style simple scholia" alternate="no"?>
                   </div>
                   <div n="comment">
                      <p>εἰ γὰρ περι τοῦ ταλάντοῦ τῶν <placeName n="urn:cite2:hmt:place.v1:place3">Ελληνῶν</placeName> ἐστὶ
-                        βραχὺ τί τὸ τάλαντον τοῦ χρυσιου ἢν παρα τοῖς ὡς καὶ <persName n="urn:cite2:hmt:pers.v1:pers568"
+                        βραχὺ τί τὸ τάλαντον τοῦ χρυσιου ἢν παρα τοῖς ὡς καὶ <persName n="urn:cite2:hmt:pers.v1:pers1265"
                            >Διΐφιλος</persName> ἐν <title>Αναγυρῳ</title>
                         <q>βραχὺ τί ἐστι τάλαντον</q>
-                        <note resp="HMT">from Anagyrus</note>φησί: ταλαντον δὲ οὐ τάλαντον, <choice>
+                        <note resp="HMT">from Anagyrus</note> φησί: ταλαντον δὲ οὐ τάλαντον, <choice>
                            <abbr>ταυτ</abbr>
                            <expan>ταυτα</expan>
                         </choice> δὲ χρυσιου τάλαντα ⁑</p>
@@ -954,16 +954,16 @@ style simple scholia" alternate="no"?>
                   </div>
                   <div n="comment">
                      <p>παρὰ <placeName n="urn:cite2:hmt:place.v1:place13">Λέσβιοις</placeName> ἀγὼν ἄγεται κάλλους
-                        γυναικῶν ἐν τῷ τῆς ήρας τεμένει λεγόμενον <sic>καλλίστεια</sic>: ἡ δὲ
+                        γυναικῶν ἐν τῷ τῆς <persName n="urn:cite2:hmt:pers.v1:pers116">ήρας</persName> τεμένει λεγόμενον <sic>καλλίστεια</sic>: ἡ δὲ
                            <placeName n="urn:cite2:hmt:place.v1:place13">Λέσβος</placeName> νῆσος ἐστιν εν τῳ <placeName
                            n="urn:cite2:hmt:place.v1:place103">Αἰγειω</placeName> πελάγω <choice>
                            <abbr>πο</abbr>
                            <expan>πόλεις</expan>
-                        </choice> εχοῦσα πέντε, <placeName n="urn:cite2:hmt:place.v1:place191">Ἄντισσαν</placeName>
-                        <placeName n="urn:cite2:hmt:place.v1:place190">Ἔρυσον</placeName>: <placeName n="urn:cite2:hmt:place.v1:place189"
+                        </choice> εχοῦσα πέντε, <placeName n="urn:cite2:hmt:place.v1:place472">Ἄντισσαν</placeName>
+                        <placeName n="urn:cite2:hmt:place.v1:place473">Ἔρυσον</placeName>: <placeName n="urn:cite2:hmt:place.v1:place474"
                            >Μίθυμναν</placeName>
-                        <placeName n="urn:cite2:hmt:place.v1:place188">Πυπίαν</placeName>
-                        <placeName n="urn:cite2:hmt:place.v1:place187">Μιτυληνην</placeName>⁑ </p>
+                        <placeName n="urn:cite2:hmt:place.v1:place475">Πυπίαν</placeName>
+                        <placeName n="urn:cite2:hmt:place.v1:place420">Μιτυληνην</placeName>⁑ </p>
                   </div>
                </div>
                <div n="136" type="scholion">
