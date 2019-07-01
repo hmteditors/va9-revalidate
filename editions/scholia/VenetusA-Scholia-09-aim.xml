@@ -294,7 +294,7 @@ style simple scholia" alternate="no"?>
                      <p><persName n="urn:cite2:hmt:pers.v1:pers16"><choice>
                            <abbr>Ἀρίσταρχ</abbr>
                            <expan>Ἀρίσταρχος</expan>
-                        </choice></persName> μετὰ τοῦ <rs type="waw">α</rs>
+                        </choice></persName> <choice><abbr>μετ</abbr><expan>μετὰ</expan></choice> τοῦ <rs type="waw">α</rs>
                         <q>δόρπα</q>: </p>
                   </div>
                </div>
@@ -354,7 +354,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:9.109</p>
                   </div>
                   <div n="comment">
-                     <p>οὕτως <persName n="urn:cite2:hmt:pers.v1:pers16"><choice>
+                     <p><choice><abbr>ουτ</abbr><expan>οὕτως</expan></choice> <persName n="urn:cite2:hmt:pers.v1:pers16"><choice>
                            <abbr>Ἀρίσταρχ</abbr>
                            <expan>Ἀρίσταρχος</expan>
                         </choice></persName>
