@@ -1967,7 +1967,7 @@ style simple scholia" alternate="no"?>
                   <div n="comment">
                      <p><persName n="urn:cite2:hmt:pers.v1:pers16">Ἀρίσταρχος</persName> ὑφ' ἓν μέρος λόγου τὸ <rs
                            type="waw">ἐνδέξιᾳ</rs> ἐπι τὴν <rs type="waw">δε</rs> συλλαβὴν τὴν
-                        ὀξεῖαν ποιῶν: ὁ δὲ <persName n="urn:cite2:hmt:pers.v1:pers542">Ἀσκαλωνίτης</persName>
+                        ὀξεῖαν ποιῶν: ὁ δὲ <persName n="urn:cite2:hmt:pers.v1:pers485">Ἀσκαλωνίτης</persName>
                         <note resp="Erbse">p. 49 B.</note> κατα παρολκὴν παραλαμβάνει τὴν <rs
                            type="waw">ἔν</rs> πρόθεσιν ὥστε εἶναι δεξιὰ σήματα φαίνων: ἅμεινον δὲ τὸ
                         πρότερον ⁑</p>
@@ -2538,7 +2538,7 @@ style simple scholia" alternate="no"?>
                </div>
                <div n="356" type="scholion">
                   <div n="lemma">
-                     <p>εἴ τινά που <rs type="ethnic" n="urn:cite2:hmt:pers.v1:pers500">Δαναῶν</rs> ἔτι ἔλπεται
+                     <p>εἴ τινά που <rs type="ethnic" n="urn:cite2:hmt:pers.v1:pers60">Δαναῶν</rs> ἔτι ἔλπεται
                         ἐξαπατήσειν: </p>
                   </div>
                   <div n="ref">
@@ -4481,14 +4481,14 @@ style simple scholia" alternate="no"?>
                </div>
                <div n="616" type="scholion">
                   <div n="lemma">
-                     <p>‡πληθύος ἐκ <rs type="ethnic" n="urn:cite2:hmt:pers.v1:pers500">Δαναῶν</rs>: </p>
+                     <p>‡πληθύος ἐκ <rs type="ethnic" n="urn:cite2:hmt:pers.v1:pers60">Δαναῶν</rs>: </p>
                   </div>
                   <div n="ref">
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:9.641</p>
                   </div>
                   <div n="comment">
                      <p>ὅτι <persName n="urn:cite2:hmt:pers.v1:pers15">Ζηνόδοτος</persName> γράφει <q>ἀθρόοι ἐκ
-                        <rs type="ethnic" n="urn:cite2:hmt:pers.v1:pers500">Δαναῶν</rs></q>, πῶς δὲ ἀθρόοι ἐληλυθέναι δύνανται δύο ὄντες ⁑</p>
+                        <rs type="ethnic" n="urn:cite2:hmt:pers.v1:pers60">Δαναῶν</rs></q>, πῶς δὲ ἀθρόοι ἐληλυθέναι δύνανται δύο ὄντες ⁑</p>
                   </div>
                </div>
                <div n="617" type="scholion">
