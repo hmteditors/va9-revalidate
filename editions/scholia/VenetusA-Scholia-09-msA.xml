@@ -1369,7 +1369,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:9.168</p>
                   </div>
                   <div n="comment">
-                     <p>ὅτι ὁ <persName n="urn:cite2:hmt:pers.v1:pers563">Φοίνιξ</persName> προέρχεται καὶ οὐ συμπρεσβεύει
+                     <p>ὅτι ὁ <persName n="urn:cite2:hmt:pers.v1:pers405">Φοίνιξ</persName> προέρχεται καὶ οὐ συμπρεσβεύει
                         τοῖς περὶ τὸν <persName n="urn:cite2:hmt:pers.v1:pers118">Ὀδυσσέα</persName> ὥστε μὴ συγχεῖσθαι
                         δια τῶν ἑξῆς τὰ δυϊκά ⁑</p>
                   </div>
@@ -1387,16 +1387,16 @@ style simple scholia" alternate="no"?>
                         τοῦ μετα ταυτα ὡς καὶ <cit>
                            <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:10.307</ref>
                            <q><persName n="urn:cite2:hmt:pers.v1:pers104">Ἑρμείας</persName> μὲν ἔπειτα</q>
-                        </cit>: βούλεται γὰρ πρῶτον τὸν <persName n="urn:cite2:hmt:pers.v1:pers563">Φοίνικα</persName>
+                        </cit>: βούλεται γὰρ πρῶτον τὸν <persName n="urn:cite2:hmt:pers.v1:pers405">Φοίνικα</persName>
                         ἀπεληλυθότα εἰς τὸ σκήνωμα εἶτα τὸν <persName n="urn:cite2:hmt:pers.v1:pers118">Ὀδυσσέα</persName>
                         καὶ τὸν <persName n="urn:cite2:hmt:pers.v1:pers127">Αἴαντα</persName> ὡς πρεσβεύοντας. ὁ δὲ
-                           <persName n="urn:cite2:hmt:pers.v1:pers574">Κράτης</persName> τὸ ἔπειτα ἀντι τοῦ δὴ συνδέσμου
+                           <persName n="urn:cite2:hmt:pers.v1:pers667">Κράτης</persName> τὸ <q>ἔπειτα</q> ἀντι τοῦ <q>δὴ</q> συνδέσμου
                         λαμβάνει ⁑</p>
                   </div>
                </div>
                <div n="191" type="scholion">
                   <div n="lemma">
-                     <p>κηρύκων <persName n="urn:cite2:hmt:pers.v1:pers480">Ὀδίος</persName> τὲ καὶ <persName n="urn:cite2:hmt:pers.v1:pers294"
+                     <p>κηρύκων <persName n="urn:cite2:hmt:pers.v1:pers293">Ὀδίος</persName> τὲ καὶ <persName n="urn:cite2:hmt:pers.v1:pers294"
                            >Εὐρυβάτης</persName>: </p>
                   </div>
                   <div n="ref">
@@ -1420,7 +1420,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:9.180</p>
                   </div>
                   <div n="comment">
-                     <p>ὅτι παρόντος τοῦ <persName n="urn:cite2:hmt:pers.v1:pers563">Φοίνικος</persName>. ἔτι ταῦτα ὁ
+                     <p>ὅτι παρόντος τοῦ <persName n="urn:cite2:hmt:pers.v1:pers405">Φοίνικος</persName>. ἔτι ταῦτα ὁ
                            <persName n="urn:cite2:hmt:pers.v1:pers117">Νέστωρ</persName> ποιεῖ. δι ὅ καὶ ἁρμόσει τὸ <rs
                            type="waw">ἐς ἕκαστον</rs> πληθυντικῶς εἰς ἐνηνεγμένον. καὶ οὐκ εἰς
                         ἑκάτερον ὅπερ ἐπι δύο τίθεται καὶ τὸ <rs type="waw">μάλιστα</rs> ὑπερθετικῶς
@@ -1438,22 +1438,22 @@ style simple scholia" alternate="no"?>
                   </div>
                   <div n="comment">
                      <p>ὅτι ἐπι <persName n="urn:cite2:hmt:pers.v1:pers118">Ὀδυσσέως</persName> καὶ <persName n="urn:cite2:hmt:pers.v1:pers127"
-                           >Αἴαντος</persName> τὸ δυϊκόν κεχώρισται γὰρ ὁ <persName n="urn:cite2:hmt:pers.v1:pers563"
+                           >Αἴαντος</persName> τὸ δυϊκόν κεχώρισται γὰρ ὁ <persName n="urn:cite2:hmt:pers.v1:pers405"
                            >Φοῖνιξ</persName> μετὰ τὴν <persName n="urn:cite2:hmt:pers.v1:pers117">Νέστορος</persName>
-                        ἐντολήν οὗτοι δὲ μετα ταῦτα ζητοῦμεν δὲ εἰ καὶ <persName n="urn:cite2:hmt:pers.v1:pers563"
+                        ἐντολήν οὗτοι δὲ μετα ταῦτα ζητοῦμεν δὲ εἰ καὶ <persName n="urn:cite2:hmt:pers.v1:pers405"
                            >Φοῖνιξ</persName> ἐστὶ πρεσβευτής. καὶ φασὶν. οἱ δύο πρεσβεύειν
                            <persName n="urn:cite2:hmt:pers.v1:pers127">Αἴαντας</persName> καὶ <persName n="urn:cite2:hmt:pers.v1:pers118"
                            >Ὀδυσσέα</persName>
-                        <persName n="urn:cite2:hmt:pers.v1:pers563">Φοίνικος</persName> προεληλυθότος <del>οὐκ εἰς το
+                        <persName n="urn:cite2:hmt:pers.v1:pers405">Φοίνικος</persName> προεληλυθότος <del>οὐκ εἰς το
                            πρεσβεύειν ἀλλ εἰς τὸ πρεσβεύειν <persName n="urn:cite2:hmt:pers.v1:pers127">Αἴαντας</persName>
                            καὶ <persName n="urn:cite2:hmt:pers.v1:pers118">Ὀδυσσέα</persName>
-                           <persName n="urn:cite2:hmt:pers.v1:pers563">Φοίνικος</persName> προέληλυθότος</del> οὐκ εις τὸ
+                           <persName n="urn:cite2:hmt:pers.v1:pers405">Φοίνικος</persName> προέληλυθότος</del> οὐκ εις τὸ
                         πρεσβεύειν ἀλλ εἰς τὸ συλλαβέσθαι: καὶ δια τοῦτο ὁ ποιητής δυϊκῶς κέχρηται:
                         καὶ <cit>
                            <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:9.197</ref>
                            <q>χαίρετον ὦ φίλοι</q>
                         </cit>: ἔνιοι δὲ λέγουσιν <sic>συμπρεσβευκὲναι</sic> καὶ <persName
-                           n="urn:cite2:hmt:pers.v1:pers563">Φοίνικα</persName> καὶ οὐδὲν εἶναι τὸν <persName n="urn:cite2:hmt:pers.v1:pers563"
+                           n="urn:cite2:hmt:pers.v1:pers405">Φοίνικα</persName> καὶ οὐδὲν εἶναι τὸν <persName n="urn:cite2:hmt:pers.v1:pers405"
                            >Φοίνικα</persName> τὸν παρα τῷ ποιητῇ ἀριθμόν: πολλάκις γὰρ καὶ ἐπὶ
                         πλειόνων αὐτὸν τετάχθαι ὡς καὶ ἐπι τοῦ <cit>
                            <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:1.566</ref>
@@ -1526,7 +1526,7 @@ style simple scholia" alternate="no"?>
                      <p>ὅτι οὐ μόνος ἐν τῇ κλισίᾳ: ἀλλα μόνος <persName n="urn:cite2:hmt:pers.v1:pers1"
                            >Αἰακίδην</persName> δεδεγμένος ἀντίος ἧστο καὶ γὰρ <persName n="urn:cite2:hmt:pers.v1:pers217"
                            >Αὐτομέδων</persName> ἐπι τῆς κλισίας ἦν <note resp="Erbse">cf. Ι
-                           209</note> ὁμοίως καὶ ὁ <persName n="urn:cite2:hmt:pers.v1:pers563">Φοῖνιξ</persName>
+                           209</note> ὁμοίως καὶ ὁ <persName n="urn:cite2:hmt:pers.v1:pers405">Φοῖνιξ</persName>
                         <note resp="Erbse">cf. Ι 223</note>⁑</p>
                   </div>
                </div>
@@ -1539,7 +1539,7 @@ style simple scholia" alternate="no"?>
                   </div>
                   <div n="comment">
                      <p>ὅτι ἐπὶ <persName n="urn:cite2:hmt:pers.v1:pers118">Ὀδυσσέος</persName> καὶ <persName n="urn:cite2:hmt:pers.v1:pers127"
-                           >Αἴαντος</persName> τὸ δυϊκόν παρόντος γὰρ τοῦ <persName n="urn:cite2:hmt:pers.v1:pers563"
+                           >Αἴαντος</persName> τὸ δυϊκόν παρόντος γὰρ τοῦ <persName n="urn:cite2:hmt:pers.v1:pers405"
                            >Φοίνικος</persName> ἀπίθανον λέγειν ἡγεῖτο δὲ δῖος <persName n="urn:cite2:hmt:pers.v1:pers118"
                            >Ὁδυσσεύς</persName>: </p>
                   </div>
@@ -1593,7 +1593,7 @@ style simple scholia" alternate="no"?>
                      <p>ἀμφοτέρους τοὺς συνδέσμους περισπαστέον βεβαιωτικοὶ γάρ. ἡ διπλῆ δέ ὅτι
                         χωρὶς τοῦ δυϊκῶς ἐσχηματίσθαι πρὸς <persName n="urn:cite2:hmt:pers.v1:pers118">Ὀδυσσέα</persName>
                         καὶ <persName n="urn:cite2:hmt:pers.v1:pers127">Αἴαντα</persName>. καὶ τὰ τῆς διαθέσεως οὐκ
-                        εμφαίνει συμπαρόντα τὸν <persName n="urn:cite2:hmt:pers.v1:pers563">Φοίνικα</persName>: οὐ γὰρ ἂν
+                        εμφαίνει συμπαρόντα τὸν <persName n="urn:cite2:hmt:pers.v1:pers405">Φοίνικα</persName>: οὐ γὰρ ἂν
                         οὕτως ἐκπλαγεὶς ἀνεπίδησεν ἢ ἐδεξιοῦτο ὡς αἰφνιδίως παραγενομένους ⁑</p>
                   </div>
                </div>
@@ -1835,14 +1835,14 @@ style simple scholia" alternate="no"?>
                <div n="252" type="scholion">
                   <div n="lemma">
                      <p>νεὺσ' <persName n="urn:cite2:hmt:pers.v1:pers127">Αἴας</persName>
-                        <persName n="urn:cite2:hmt:pers.v1:pers563">Φοίνικι</persName>·</p>
+                        <persName n="urn:cite2:hmt:pers.v1:pers405">Φοίνικι</persName>·</p>
                   </div>
                   <div n="ref">
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:9.223</p>
                   </div>
                   <div n="comment">
                      <p>διενεύσατο φησιν ὁ <persName n="urn:cite2:hmt:pers.v1:pers127">Αἴας</persName> τῳ <persName
-                           n="urn:cite2:hmt:pers.v1:pers563">Φοίνικι</persName>, εἰ καιρὸς ἐστι τῶν προς <persName
+                           n="urn:cite2:hmt:pers.v1:pers405">Φοίνικι</persName>, εἰ καιρὸς ἐστι τῶν προς <persName
                            n="urn:cite2:hmt:pers.v1:pers1">Ἀχιλλέα</persName> λόγων, ἐνόησε δὲ <persName n="urn:cite2:hmt:pers.v1:pers118"
                            >Ὀδυσσεύς</persName></p>
                   </div>
@@ -2194,7 +2194,7 @@ style simple scholia" alternate="no"?>
                         τοῦ ῥέξαι ὅ ἐστιν εἰπόντα. παύσασθαι: ἠ ἀπηλγημένως φιλοσύντομος γὰρ ἡ
                         δεινοπάθεια: θυμός. οἱ γὰρ λυπεῖν θέλλοντες τὰς χρηστὰς ἐκκόπτουσιν ἐλπίδας:
                         ὅρα δὲ: ὡς προς μὲν <persName n="urn:cite2:hmt:pers.v1:pers118">Ὀδυσσέα</persName>, ἀπιέναι φησί:
-                           <note resp="Erbse">sc. Ι 356 – 63</note> προς <persName n="urn:cite2:hmt:pers.v1:pers563"
+                           <note resp="Erbse">sc. Ι 356 – 63</note> προς <persName n="urn:cite2:hmt:pers.v1:pers405"
                            >Φοίνικα</persName>. μένειν <note resp="Erbse">cf. Ι 618 – 9</note>, μὴ
                         μέντοι πολεμήσειν: πρὸς <persName n="urn:cite2:hmt:pers.v1:pers127">Αἴαντα</persName>, ὅτε ἀνάγκη
                         καλεῖ, πολεμήσειν: +</p>
@@ -3083,13 +3083,13 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:9.448</p>
                   </div>
                   <div n="comment">
-                     <p><persName n="urn:cite2:hmt:pers.v1:pers563">Φοῖνιξ</persName> ὁ <persName n="urn:cite2:hmt:pers.v1:pers484"
+                     <p><persName n="urn:cite2:hmt:pers.v1:pers405">Φοῖνιξ</persName> ὁ <persName n="urn:cite2:hmt:pers.v1:pers484"
                            >Ἀμύντορος</persName> ἐξέπεσεν τῆς οικειας γῆς, δια τί αν τοι αύτην τοῦ <choice>
                            <abbr>πρς</abbr>
                            <expan>πατρὸς</expan>
                         </choice> ἀν τοῦ, παλλακίδα μὲν ὀνόματι <persName n="urn:cite2:hmt:pers.v1:pers639"
                            >Κλυτίαν</persName> ἀγαπῶντος, <persName n="urn:cite2:hmt:pers.v1:pers644"
-                           >Ἱπποδάμειαν</persName> δὲ εξῆς τὸν <persName n="urn:cite2:hmt:pers.v1:pers563"
+                           >Ἱπποδάμειαν</persName> δὲ εξῆς τὸν <persName n="urn:cite2:hmt:pers.v1:pers405"
                            >Φοίνικα</persName> ἔτεκε στυγοῦντος δεηθείσης τῆς <choice>
                            <abbr>μρς</abbr>
                            <expan>ματέρος</expan>
@@ -3144,7 +3144,7 @@ style simple scholia" alternate="no"?>
                            <persName n="urn:cite2:hmt:pers.v1:pers641">Σωσιφάνης</persName>
                         <note resp="Erbse">fr. 6, T.G.F. p. 820 N.2</note> τὴν τοιαύτην εὗρε γραφήν.
                         καὶ <persName n="urn:cite2:hmt:pers.v1:pers97">Εὐριπίδης</persName> δὲ ἀναμάρτητον εἰσάγει τὸν
-                        ἥρωα ἐν τῷ <persName n="urn:cite2:hmt:pers.v1:pers563">Φοίνικι</persName>
+                        ἥρωα ἐν τῷ <persName n="urn:cite2:hmt:pers.v1:pers405">Φοίνικι</persName>
                         <note resp="Erbse">cf. T.G.F. p. 621 N.2</note>, ταῦτα ἱστορεῖ <persName
                            n="urn:cite2:hmt:pers.v1:pers642">Ἁρποκρατίων</persName> ὁ <persName n="urn:cite2:hmt:pers.v1:pers685"
                            >Δίου</persName> διδάσκαλος ἐν ποιήματι τῆς <title><num value="9"
@@ -3236,7 +3236,7 @@ style simple scholia" alternate="no"?>
                         </choice> ἢν δια τὴν σπουδήν. ὁδὲ <choice>
                            <abbr>πηρ</abbr>
                            <expan>πατήρ</expan>
-                        </choice> ἢν ὀργιζόμενος δια τὸν ἔρωτα ἀνεψιὸς δὲ <persName n="urn:cite2:hmt:pers.v1:pers563"
+                        </choice> ἢν ὀργιζόμενος δια τὸν ἔρωτα ἀνεψιὸς δὲ <persName n="urn:cite2:hmt:pers.v1:pers405"
                            >Φοίνικος</persName>
                         <persName n="urn:cite2:hmt:pers.v1:pers643">Εὐρύπυλος</persName>⁑ </p>
                   </div>
@@ -3346,7 +3346,7 @@ style simple scholia" alternate="no"?>
                            <expan>κατὰ</expan>
                         </choice> τὴν ἡμετέραν χρῆσιν: καὶ ὅτι πρεσβύτερος <persName n="urn:cite2:hmt:pers.v1:pers184"
                            >Πηλεὺς</persName>
-                        <persName n="urn:cite2:hmt:pers.v1:pers563">Φοίνικος</persName> ⁑</p>
+                        <persName n="urn:cite2:hmt:pers.v1:pers405">Φοίνικος</persName> ⁑</p>
                   </div>
                </div>
                <div n="444" type="scholion">
@@ -3362,7 +3362,7 @@ style simple scholia" alternate="no"?>
                            <abbr>πηρ</abbr>
                            <expan>πατὴρ</expan>
                         </choice> ἠτίμησεν, ἅμα δὲ καὶ ὅτι ἐν ταῖς φυγαῖς οὐδὲν οὕτως συμβάλλεται ὡς
-                        φρόνησις καὶ παιδεία δι ἃς ὁ <persName n="urn:cite2:hmt:pers.v1:pers563">Φοῖνιξ</persName> ὑπο
+                        φρόνησις καὶ παιδεία δι ἃς ὁ <persName n="urn:cite2:hmt:pers.v1:pers405">Φοῖνιξ</persName> ὑπο
                            <persName n="urn:cite2:hmt:pers.v1:pers184">Πηλέως</persName> ἐτιμήθη ⁑</p>
                   </div>
                </div>
@@ -3444,7 +3444,7 @@ style simple scholia" alternate="no"?>
                      <p>εὐμεταστρεπτοι. εὐμεταβλητοι εύπιστοι. ἐν αντίον δέ ἐστι τὸ στρεπτοὶ δὲ καὶ
                         θεοὶ αὐτοὶ τὸ οὐ γὰρ αῖψα θεῶν τρέπεται νόος. λύοιτο δ' ἂν προσώπῳ ὅτι τὸ
                         μὲν αἶψα θεῶν οὐ τρέπεται νόος ὁ ποιητὴς φησίν. ἐκεῖνο δὲ ὁ <persName
-                           n="urn:cite2:hmt:pers.v1:pers563">Φοῖνιξ</persName> λέγει ἐν καιρῷ ὀργιζομένου <persName
+                           n="urn:cite2:hmt:pers.v1:pers405">Φοῖνιξ</persName> λέγει ἐν καιρῷ ὀργιζομένου <persName
                            n="urn:cite2:hmt:pers.v1:pers1">Ἀχιλλεώς</persName> εἰκότως καὶ τοὺς θεοὺς πείθεσθαι ⁑ </p>
                   </div>
                </div>
@@ -3560,7 +3560,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:9.520</p>
                   </div>
                   <div n="comment">
-                     <p>ὅτι οὐ συμπεριλαμβάνει ἑαυτὸν ὁ <persName n="urn:cite2:hmt:pers.v1:pers563">Φοῖνιξ</persName> ὡς
+                     <p>ὅτι οὐ συμπεριλαμβάνει ἑαυτὸν ὁ <persName n="urn:cite2:hmt:pers.v1:pers405">Φοῖνιξ</persName> ὡς
                         ἂν μὴ δὲ χώραν ἔχων πρεσβευτοῦ ⁑</p>
                   </div>
                </div>
@@ -4428,7 +4428,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:9.617</p>
                   </div>
                   <div n="comment">
-                     <p>δια τί τὸν <persName n="urn:cite2:hmt:pers.v1:pers563">Φοίνικα</persName> οὐκ ἀπολύει ὁ <persName
+                     <p>δια τί τὸν <persName n="urn:cite2:hmt:pers.v1:pers405">Φοίνικα</persName> οὐκ ἀπολύει ὁ <persName
                            n="urn:cite2:hmt:pers.v1:pers1">Ἀχιλλεύς</persName>. ὅτι <sic>γνοῦς</sic> παρα κεκλῆσθαι αὐτὸν ὑπο
                            <persName n="urn:cite2:hmt:pers.v1:pers22">Αγαμέμνονος</persName> τῇ πρεσβείαι ἐφοβήθη μὴ
                         μετα μείζονος δεήσεως, πάλιν ἐκ πεμφθῆ. καὶ δὶς ἀτιμάζειν ἀνάγκην ἕξει οἱ δὲ
@@ -4545,7 +4545,7 @@ style simple scholia" alternate="no"?>
                      <p>ὅτι καὶ ἐν τοῖς ἔμπροσθεν ἡγεῖτο Ὀδυσσεὺς <cit>
                            <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:9.192</ref>
                            <q>ἡγεῖτο δὲ δῖος <persName n="urn:cite2:hmt:pers.v1:pers118">Ὀδυσσεύς</persName></q>
-                        </cit>. καὶ ὅτι οὐ συμπρεσβεύει ὁ <persName n="urn:cite2:hmt:pers.v1:pers563">Φοῖνιξ</persName>.
+                        </cit>. καὶ ὅτι οὐ συμπρεσβεύει ὁ <persName n="urn:cite2:hmt:pers.v1:pers405">Φοῖνιξ</persName>.
                         ἐπεί τοι κὰν ἀποπρεσβεύων ἡγεῖτο ⁑</p>
                   </div>
                </div>
