@@ -2235,7 +2235,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:9.321</p>
                   </div>
                   <div n="comment">
-                     <p>ὁ <persName n="urn:cite2:hmt:pers.v1:pers542">Ἀσκαλωνίτης</persName>
+                     <p>ὁ <persName n="urn:cite2:hmt:pers.v1:pers485">Ἀσκαλωνίτης</persName>
                         <note resp="Erbse">(p. 50 B.)</note> δύο ποιεῖ <rs type="waw">περί</rs> εῖτα
                            <rs type="waw">κεῖται</rs> καὶ προπερισπᾷ σημαίνει δε φησὶ τὸ περισσῶς
                         κεῖται εἰσὶ δὲ οἳ ὑφ ἓν ἀναγινώσκουσι <rs type="waw">περίκειται</rs> ὡς
@@ -2355,7 +2355,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:9.342</p>
                   </div>
                   <div n="comment">
-                     <p>ὁ <persName n="urn:cite2:hmt:pers.v1:pers542">Ἀσκαλωνίτης</persName>
+                     <p>ὁ <persName n="urn:cite2:hmt:pers.v1:pers485">Ἀσκαλωνίτης</persName>
                         <note resp="Erbse">p. 50 B.</note> δασύνει σύνθετον ἐκδεχόμενος τὴν
                         ἀντωνυμίαν δι ὃ καὶ τὰς τοιαύτας κατα διάλυσιν ἀναγινώσκομεν, <cit>
                            <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:1.271</ref>
@@ -2746,7 +2746,7 @@ style simple scholia" alternate="no"?>
                         </cit> καὶ ἐπι μέλλοντος <cit>
                            <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:10.44</ref>
                            <q>κερδαλέης εἴ τίς κεν ἐρύσεται. <sic>ἡδὲ</sic> σαώσει</q>
-                        </cit>: ἡ δὲ πλείων χρῆσις. ὧν ἐστι καὶ ὁ <persName n="urn:cite2:hmt:pers.v1:pers542"><choice>
+                        </cit>: ἡ δὲ πλείων χρῆσις. ὧν ἐστι καὶ ὁ <persName n="urn:cite2:hmt:pers.v1:pers485"><choice>
                            <abbr>Ἀσκαλωνιτ</abbr>
                            <expan>Ἀσκαλωνιτης</expan>
                         </choice></persName> ὡς σώζωσι καὶ δῆλον ότι τοῦ σώωσι συστολὴν αὐτοὺς δεῖ παραδέξασθαι
@@ -3007,7 +3007,7 @@ style simple scholia" alternate="no"?>
                      <p>ἕν ἐστιν ὡς ἀπομανέντος, καὶ γὰρ τὴν εὐθεῖαν οὕτως οἶδεν <cit>
                            <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:2.773</ref>
                            <q>ἀπομηνίσας</q>
-                        </cit>, οὕτως οἶδεν καὶ ὁ <persName n="urn:cite2:hmt:pers.v1:pers542">Ἀσκαλωνίτης</persName>
+                        </cit>, οὕτως οἶδεν καὶ ὁ <persName n="urn:cite2:hmt:pers.v1:pers485">Ἀσκαλωνίτης</persName>
                         <note resp="Erbse">(p. 50 B.)</note> καὶ <persName n="urn:cite2:hmt:pers.v1:pers341"
                            >Ἀλεξίων</persName>
                         <note resp="Erbse">(fr. 37 B.)</note>: καὶ εἰ παρελκει δὲ ἡ ἀπὸ οὕτως
@@ -4378,7 +4378,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:9.614</p>
                   </div>
                   <div n="comment">
-                     <p>ὁ <persName n="urn:cite2:hmt:pers.v1:pers542">Ἀσκαλωνίτης</persName> ἀναγινώσκει <q>ἵνα μὴ μοὶ</q>
+                     <p>ὁ <persName n="urn:cite2:hmt:pers.v1:pers485">Ἀσκαλωνίτης</persName> ἀναγινώσκει <q>ἵνα μὴ μοὶ</q>
                         τὰς δύο βαρυτόνως οἷον ἵνα μὴ ἐμοὶ κατ ορθὴν τάσιν συγκριτικὴ γάρ ἐστι φησὶν
                         ὡς πρὸς τὸν <persName n="urn:cite2:hmt:pers.v1:pers22">Ἀγαμέμνονα</persName> καὶ ὑγιῶς φησὶν, ἡ
                         μέντοι παράδοσις ἐγκλιτικῶς ἀνέγνω ἐπὶ τὴν <rs type="waw">μη</rs> τὴν <sic>ὀξείαν</sic>
@@ -4631,7 +4631,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:9.680</p>
                   </div>
                   <div n="comment">
-                     <p>ὁ <persName n="urn:cite2:hmt:pers.v1:pers542">Ασκαλωνίτης</persName>
+                     <p>ὁ <persName n="urn:cite2:hmt:pers.v1:pers485">Ασκαλωνίτης</persName>
                         <note resp="Erbse">p. 50 B.</note> ορθοτονεῖ τὴν σὲ ἐπεί φησὶν ἀεὶ μετὰ
                         τῆς επιταγματικῆς αἱ πρωτότυποι φιλοῦσιν ὀρθοτονεῖσθαι ἐχρῆν δὲ αὐτὸν ἐπι
                         τοῦ πρώτου καὶ δευτέρου προσώπου ορίσασθαι, παραιτήσασθαι δὲ τινα <persName
