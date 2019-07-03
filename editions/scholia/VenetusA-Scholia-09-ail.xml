@@ -1035,6 +1035,17 @@ style simple scholia" alternate="no"?>
                      <p> περισσὸν τι εστι</p>
                   </div>
                </div>
+               <div n="312" type="scholion">
+                  <div n="lemma">
+                     <p/>
+                  </div>
+                  <div n="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:9.324</p>
+                  </div>
+                  <div n="comment">
+                     <p> τροφη</p>
+                  </div>
+               </div>
                <div n="349" type="scholion">
                   <div n="lemma">
                      <p/>
