@@ -2467,8 +2467,8 @@ style simple scholia" alternate="no"?>
                      <p>ἀντι τοῦ δι <placeName n="urn:cite2:hmt:place.v1:place22">Ἑλλησπόντου</placeName>
                         <placeName n="urn:cite2:hmt:place.v1:place22">Ἑλλήσποντος</placeName> δέ ἐστιν ἡ ἐν τοῖς στενοῖς
                         θάλασσα παρα κειμένη τῇ <placeName n="urn:cite2:hmt:place.v1:place15">Τροία</placeName> οὕτως
-                        προσαγορευθεῖσα ἀπο <persName n="urn:cite2:hmt:pers.v1:pers612">ἑλλης</persName> τῆς <persName
-                           n="urn:cite2:hmt:pers.v1:pers611">Φρίξου</persName> ἀδελφῆς ⁑ </p>
+                        προσαγορευθεῖσα ἀπο <persName n="urn:cite2:hmt:pers.v1:pers1269">Ἑλλης</persName> τῆς <persName
+                           n="urn:cite2:hmt:pers.v1:pers1270">Φρίξου</persName> ἀδελφῆς ⁑ </p>
                   </div>
                </div>
                <div n="352" type="scholion">
@@ -2479,7 +2479,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:9.360</p>
                   </div>
                   <div n="comment">
-                     <p>καὶ ἀλλαχοῦ ταῦτα τὰ μέρη ἰχθυώδη ἀναγράφονται ὅ τε <placeName n="urn:cite2:hmt:place.v1:place211"
+                     <p>καὶ ἀλλαχοῦ ταῦτα τὰ μέρη ἰχθυώδη ἀναγράφονται ὅ τε <placeName n="urn:cite2:hmt:place.v1:place481"
                            >Εὔξεινος πόντος</placeName> καὶ ὁ <placeName n="urn:cite2:hmt:place.v1:place22"
                            >Ἑλλήσποντος</placeName> ἀλλα καὶ ὁ <sic><placeName n="urn:cite2:hmt:place.v1:place102"
                               >ἀόσπορος</placeName></sic> ⁑</p>
@@ -2538,7 +2538,7 @@ style simple scholia" alternate="no"?>
                </div>
                <div n="356" type="scholion">
                   <div n="lemma">
-                     <p>εἴ τινά που <rs type="ethnic" n="urn:cite2:hmt:pers.v1:pers60">Δαναῶν</rs> ἔτι ἔλπεται
+                     <p>εἴ τινά που <rs type="ethnic" n="urn:cite2:hmt:pers.v1:pers66">Δαναῶν</rs> ἔτι ἔλπεται
                         ἐξαπατήσειν: </p>
                   </div>
                   <div n="ref">
