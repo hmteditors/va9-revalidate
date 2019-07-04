@@ -3678,7 +3678,7 @@ style simple scholia" alternate="no"?>
                            <abbr>μρς</abbr>
                            <expan>ματέρος</expan>
                         </choice>
-                        <persName n="urn:cite2:hmt:pers.v1:pers483">Ἀλθαίας</persName> ὀργίλω ἐπι τούτῳ διατεθέντες
+                        <persName n="urn:cite2:hmt:pers.v1:pers1272">Ἀλθαίας</persName> ὀργίλω ἐπι τούτῳ διατεθέντες
                         ἐπεβούλευον τῷ <persName n="urn:cite2:hmt:pers.v1:pers312">Μελεάγρῳ</persName> ὁ δὲ προγνοὺς οὓς
                         μὲν ἀπέκτεινεν: οὓς δὲ εἰς φυγην τραπῆναι παρεσκεύασεν, δι ὅ περ οἱ <rs
                            type="ethnic" n="urn:cite2:hmt:place.v1:place215">Πλευρώνιοι</rs> τοῖς <rs type="ethnic"
@@ -3692,14 +3692,14 @@ style simple scholia" alternate="no"?>
                         </choice>: πορθούμεν' δὲ ἤδη τῆς <choice>
                            <abbr>πο</abbr>
                            <expan>πόλεως</expan>
-                        </choice>πεισθεὶς ὑπο <persName n="urn:cite2:hmt:pers.v1:pers482">Κλεοπάτρας</persName> τῆς
+                        </choice>πεισθεὶς ὑπο <persName n="urn:cite2:hmt:pers.v1:pers1273">Κλεοπάτρας</persName> τῆς
                         γυναικός προελθὼν, οὓς δὲ διώκων ἠνάγκαζεν εκεῖσε κατα κρημνον ἐρεχθῆναι
-                           <persName n="urn:cite2:hmt:pers.v1:pers483">Ἀλθαία</persName> δὲ μηνιῶσα τῷ παιδὶ τὴν <choice>
+                           <persName n="urn:cite2:hmt:pers.v1:pers1272">Ἀλθαία</persName> δὲ μηνιῶσα τῷ παιδὶ τὴν <choice>
                            <abbr>υπ</abbr>
                            <expan>ὑπὸ</expan>
                         </choice> μοιρῶν δεδομένην δᾶδα κατέφλεξεν, ἢν δὲ πεπρωμένον ἐκείνης
                         ἐκκαείσης καὶ τὸν <persName n="urn:cite2:hmt:pers.v1:pers312">Μελέαγρον</persName> ἀποθανεῖν,
-                        φθαρεντος δὲ τοῦ παιδὸς, <persName n="urn:cite2:hmt:pers.v1:pers483">Ἀλθαία</persName> μετανοήσασα
+                        φθαρεντος δὲ τοῦ παιδὸς, <persName n="urn:cite2:hmt:pers.v1:pers1272">Ἀλθαία</persName> μετανοήσασα
                         ἑαυτὴν ἀναιρεῖ ⁑</p>
                   </div>
                </div>
@@ -3883,7 +3883,7 @@ style simple scholia" alternate="no"?>
                         μή <rs type="ethnic" n="urn:cite2:hmt:place.v1:place15">Τρωες</rs> τοῦ <persName n="urn:cite2:hmt:pers.v1:pers312"
                            >Μελεάγρου</persName> ἀφείλαντο τὰ γέρα τῆς κόρης, ἐφ ᾧ οργισθεὶς ὁ
                            <persName n="urn:cite2:hmt:pers.v1:pers312">Μελέαγρος</persName> διεχρήσατο αὐτούς. λυπηθεῖσα
-                        ἐπι τοῖς ἀδελφοῖς, <persName n="urn:cite2:hmt:pers.v1:pers483">Ἀλθαία</persName> ἡ τοῦ <persName
+                        ἐπι τοῖς ἀδελφοῖς, <persName n="urn:cite2:hmt:pers.v1:pers1272">Ἀλθαία</persName> ἡ τοῦ <persName
                            n="urn:cite2:hmt:pers.v1:pers312">Μελέαγρου</persName>
                         <choice>
                            <abbr>μηρ</abbr>
@@ -3916,13 +3916,13 @@ style simple scholia" alternate="no"?>
                </div>
                <div n="526" type="scholion">
                   <div n="lemma">
-                     <p>καλῇ <persName n="urn:cite2:hmt:pers.v1:pers482">Κλεοπάτρῃ</persName></p>
+                     <p>καλῇ <persName n="urn:cite2:hmt:pers.v1:pers1273">Κλεοπάτρῃ</persName></p>
                   </div>
                   <div n="ref">
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:9.556</p>
                   </div>
                   <div n="comment">
-                     <p><persName n="urn:cite2:hmt:pers.v1:pers482">Κλεοπάτρα</persName>
+                     <p><persName n="urn:cite2:hmt:pers.v1:pers1273">Κλεοπάτρα</persName>
                         <persName n="urn:cite2:hmt:pers.v1:pers488">Ἴδα</persName> καὶ <persName n="urn:cite2:hmt:pers.v1:pers486"
                            >Μαρπήσσης</persName> τῆς <persName n="urn:cite2:hmt:pers.v1:pers487">Εὐήνου</persName> θυγάτηρ
                         γυνὴ δὲ <persName n="urn:cite2:hmt:pers.v1:pers312">Μελεάγρου</persName></p>
@@ -3930,7 +3930,7 @@ style simple scholia" alternate="no"?>
                </div>
                <div n="527" type="scholion">
                   <div n="lemma">
-                     <p><persName n="urn:cite2:hmt:pers.v1:pers482">Ἀλκυόνην</persName> καλέεσκον ἐπώνυμον</p>
+                     <p><persName n="urn:cite2:hmt:pers.v1:pers1273">Ἀλκυόνην</persName> καλέεσκον ἐπώνυμον</p>
                   </div>
                   <div n="ref">
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:9.562</p>
@@ -3948,8 +3948,8 @@ style simple scholia" alternate="no"?>
                            <persName n="urn:cite2:hmt:pers.v1:pers688">Ἀλκυόνης</persName> τικτούσης συμβαίνει, ἐπελθόντα
                         τὰ κύματα τὰδε ἔγγονα αυτης κατασύρειν: <persName n="urn:cite2:hmt:pers.v1:pers8">Ζεὺς</persName>
                         δὲ θεασάμενος αὐτὴν κλαίουσαν κατελεήσας, ἐπέταξε τοῖς ἀνέμοις. καθ ὸν ἂν
-                        καιρὸν ἡ <persName n="urn:cite2:hmt:pers.v1:pers482">Ἀλκυόνη</persName> παρα τὸ ἐν αλὶ κύειν: οἱ
-                        οὖν γονεῖς ἀπο τῶν αὐτοῖς συμβεβηκότων τὴν <persName n="urn:cite2:hmt:pers.v1:pers482"
+                        καιρὸν ἡ <persName n="urn:cite2:hmt:pers.v1:pers1273">Ἀλκυόνη</persName> παρα τὸ ἐν αλὶ κύειν: οἱ
+                        οὖν γονεῖς ἀπο τῶν αὐτοῖς συμβεβηκότων τὴν <persName n="urn:cite2:hmt:pers.v1:pers1273"
                            >Κλεοπάτραν</persName>: οὕτω <sic>ἑκάλουν</sic> ὡς <persName n="urn:cite2:hmt:pers.v1:pers382"
                            >Μέγαπένθην</persName> καὶ <persName n="urn:cite2:hmt:pers.v1:pers683">Εὐρυσάκη</persName>
                         <persName n="urn:cite2:hmt:pers.v1:pers118">Ὀδυσσέα</persName> καὶ <persName n="urn:cite2:hmt:pers.v1:pers647"
@@ -3964,7 +3964,7 @@ style simple scholia" alternate="no"?>
                            <abbr>μηρ</abbr>
                            <expan>μήτηρ</expan>
                         </choice>
-                        <persName n="urn:cite2:hmt:pers.v1:pers483">Ἀλθαία</persName>⁑ </p>
+                        <persName n="urn:cite2:hmt:pers.v1:pers1272">Ἀλθαία</persName>⁑ </p>
                   </div>
                </div>
                <div n="528" type="scholion">
@@ -3976,12 +3976,12 @@ style simple scholia" alternate="no"?>
                   </div>
                   <div n="comment">
                      <p>ἀντι τοῦ φερώνυμον καὶ ἀποσυμβεβηκότος οἰκείως κείμενον τὴν <persName
-                           n="urn:cite2:hmt:pers.v1:pers482">Κλεοπάτραν</persName> οὖν φησὶ παρωνύμως καὶ <persName
-                           n="urn:cite2:hmt:pers.v1:pers482">Ἀλκυόνην</persName> <sic>ἑκάλουν</sic> δια τὸ τὴν <choice>
+                           n="urn:cite2:hmt:pers.v1:pers1273">Κλεοπάτραν</persName> οὖν φησὶ παρωνύμως καὶ <persName
+                           n="urn:cite2:hmt:pers.v1:pers1273">Ἀλκυόνην</persName> <sic>ἑκάλουν</sic> δια τὸ τὴν <choice>
                            <abbr>μρά</abbr>
                            <expan>μήτρα</expan>
                         </choice>
-                        <persName n="urn:cite2:hmt:pers.v1:pers486">Μάρπησσαν</persName> δίκην <persName n="urn:cite2:hmt:pers.v1:pers482"
+                        <persName n="urn:cite2:hmt:pers.v1:pers486">Μάρπησσαν</persName> δίκην <persName n="urn:cite2:hmt:pers.v1:pers1273"
                            >Ἀλκυόνος</persName> κλαῦσαι ὅτε ἀφῃρεῖτο αὐτὴν ὁ <persName n="urn:cite2:hmt:pers.v1:pers40"
                            >Ἀπόλλων</persName>⁑</p>
                   </div>
@@ -4001,10 +4001,10 @@ style simple scholia" alternate="no"?>
                         </cit>: τινὲς δὲ προπερισπῶσιν ὡς <cit>
                            <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:9.246</ref>
                            <q>λευκοῖο</q>
-                        </cit> ἵνα γένηται κασιγνητικοῦ: ἡ γὰρ <persName n="urn:cite2:hmt:pers.v1:pers483"
+                        </cit> ἵνα γένηται κασιγνητικοῦ: ἡ γὰρ <persName n="urn:cite2:hmt:pers.v1:pers1272"
                            >Ἀλθαία</persName> φησὶν οὐχ ἕνα εῖχεν ἀδελφὸν: δύναται μέντοι καὶ τὸ
                         βαρυνόμενον ἐνικὸν ἰσοδυναμεῖν τοῦ κασιγνητικοῦ, ἀδελφοὶ δὲ <persName
-                           n="urn:cite2:hmt:pers.v1:pers483">Ἀλθαίας</persName>
+                           n="urn:cite2:hmt:pers.v1:pers1272">Ἀλθαίας</persName>
                         <persName n="urn:cite2:hmt:pers.v1:pers650">Ί̈φικλος </persName><persName n="urn:cite2:hmt:pers.v1:pers651"
                            >Πολυφάντης</persName>
                         <persName n="urn:cite2:hmt:pers.v1:pers652">Φάνης</persName>
