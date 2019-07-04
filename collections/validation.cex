@@ -14,4 +14,6 @@ urn:cite2:hmt:msA.v1:117v#passes
 urn:cite2:hmt:msA.v1:118r#passes
 urn:cite2:hmt:msA.v1:118v#passes
 urn:cite2:hmt:msA.v1:119r#passes
-urn:cite2:hmt:msA.v1:119V#passes
+urn:cite2:hmt:msA.v1:119v#passes
+urn:cite2:hmt:msA.v1:120r#passes
+urn:cite2:hmt:msA.v1:120v#DOES NOT PASS
