@@ -4577,16 +4577,16 @@ style simple scholia" alternate="no"?>
                </div>
                <div n="638" type="scholion">
                   <div n="lemma">
-                     <p><placeName n="urn:cite2:hmt:place.v1:place178">Σκῦρον</placeName> ἑλών.</p>
+                     <p><placeName n="urn:cite2:hmt:place.v1:place61">Σκῦρον</placeName> ἑλών.</p>
                   </div>
                   <div n="ref">
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:9.668</p>
                   </div>
                   <div n="comment">
-                     <p>ὅτι δια τούτων καὶ τὴν <placeName n="urn:cite2:hmt:place.v1:place178">Σκῦρον</placeName>
+                     <p>ὅτι δια τούτων καὶ τὴν <placeName n="urn:cite2:hmt:place.v1:place61">Σκῦρον</placeName>
                         <sic>πεπολιορκουμενην</sic> ὑπο <persName n="urn:cite2:hmt:pers.v1:pers1">Ἀχιλλέως</persName> μετὰ τῶν ἄλλων
-                        πόλεων παραδίδωσιν. <placeName n="urn:cite2:hmt:place.v1:place178">Σκῦρου</placeName> δὲ ἐστι νῆσος
-                        καὶ πολις τῆς νῦν <placeName n="urn:cite2:hmt:place.v1:place200">Φρυγίας</placeName> πρότερον δὲ
+                        πόλεων παραδίδωσιν. <placeName n="urn:cite2:hmt:place.v1:place61">Σκῦρου</placeName> δὲ ἐστι νῆσος
+                        καὶ πολις τῆς νῦν <placeName n="urn:cite2:hmt:place.v1:place231">Φρυγίας</placeName> πρότερον δὲ
                         ηλικίας: μία δὲ τῶν <placeName n="urn:cite2:hmt:place.v1:place8">Κυκλάδων</placeName> ἣν οὐ
                         πορθήσας. ἀλλ' ειρηνικῶς καταλαβών ἐλαφυραγώγησεν ⁑</p>
                   </div>
@@ -4696,13 +4696,13 @@ style simple scholia" alternate="no"?>
                </div>
                <div n="644" type="scholion">
                   <div n="lemma">
-                     <p><placeName n="urn:cite2:hmt:place.v1:place15">Ἰλίου</placeName> αἰπεινῆς, </p>
+                     <p><placeName n="urn:cite2:hmt:place.v1:place6">Ἰλίου</placeName> αἰπεινῆς, </p>
                   </div>
                   <div n="ref">
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:9.686</p>
                   </div>
                   <div n="comment">
-                     <p>ἡ διπλῆ, ὅτι θηλυκῶς τὴν <placeName n="urn:cite2:hmt:place.v1:place15">Ἴλιον</placeName> ⁑</p>
+                     <p>ἡ διπλῆ, ὅτι θηλυκῶς τὴν <placeName n="urn:cite2:hmt:place.v1:place6">Ἴλιον</placeName> ⁑</p>
                   </div>
                </div>
                <div n="645" type="scholion">
