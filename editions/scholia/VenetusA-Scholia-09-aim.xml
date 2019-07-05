@@ -1485,6 +1485,31 @@ style simple scholia" alternate="no"?>
 
                   </div>
                </div>
+               <div n="701" type="scholion">
+                  <div n="lemma">
+                     <p/>
+                  </div>
+                  <div n="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:9.639</p>
+                  </div>
+                  <div n="comment">
+                     <p><choice><abbr>ουτ</abbr><expan>οὑτῶς</expan></choice> ἐπι τῆσι ἐν απάσαις ἐπι ταῖς λέσβισι ⁑</p>
+
+                  </div>
+               </div>
+               <div n="702" type="scholion">
+                  <div n="lemma">
+                     <p/>
+                  </div>
+                  <div n="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:9.645</p>
+                  </div>
+                  <div n="comment">
+                     <p>ἔν τισι τῶν <choice><abbr>υπμνημάτων</abbr>//<expan>ὑπόμνημάτων</expan></choice> διηρημένως ἐσίσαα</p>
+
+                  </div>
+               </div>
+
                <div n="624" type="scholion">
                   <div n="lemma">
                      <p/>
