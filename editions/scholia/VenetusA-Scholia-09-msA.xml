@@ -3796,8 +3796,7 @@ style simple scholia" alternate="no"?>
                         κνώμενοι γὰρ πρὸς ταφῶ τὰ παρατρίβονται καὶ <sic>ἀγρίοτεροι</sic> γίγνονται, οἱ δὲ τὸν
                         οἱ μὲν τὸν ἐντομίαν: κνώμενοι γὰρ πρὸς τὰ οἱ δὲ τὸν ἐν χλόῃ διάγοντα: τὸν
                         γὰρ οἰκοτραφη σίαλόν φησιν <note resp="Erbse">cf. Ι 208. Φ 363 al.</note>:
-                        οἱ δὲ τὸν εἰς γῆν καταβάλλοντα τὰ φυτά: ἄλλοι δὲ τὸν ἐπι <placeName
-                           n="urn:cite2:hmt:place.v1:place218">Χλούνῃ</placeName> χωρίῳ οὕτω καλουμένῳ ἐνδιατρίβοντα ⁑ </p>
+                        οἱ δὲ τὸν εἰς γῆν καταβάλλοντα τὰ φυτά: ἄλλοι δὲ τὸν ἐπι χλούνῃ χωρίῳ οὕτω καλουμένῳ ἐνδιατρίβοντα ⁑ </p>
                   </div>
                </div>
                <div n="520" type="scholion">
@@ -3809,7 +3808,7 @@ style simple scholia" alternate="no"?>
                   </div>
                   <div n="comment">
                      <p>
-                        <persName n="urn:cite2:hmt:pers.v1:pers644">Ἀμμώνιος</persName> ἐν τῷ <title>Περὶ τῶν ὑπο
+                        <persName n="urn:cite2:hmt:pers.v1:pers307">Ἀμμώνιος</persName> ἐν τῷ <title>Περὶ τῶν ὑπο
                               <persName n="urn:cite2:hmt:pers.v1:pers137">Πλάτωνος</persName> μετενηνεγμένων</title> ἐξ
                            <persName n="urn:cite2:hmt:pers.v1:pers17">Ομήρου</persName> δια τοῦ <rs type="waw">ξ</rs>
                         προφέρεται <q>ἔρεξεν</q>. <rs type="waw">ἔθων</rs> δὲ εἰθισμένος τοῖς τόποις
@@ -3878,7 +3877,7 @@ style simple scholia" alternate="no"?>
                      <p>ὡς καὶ τῆς κεφαλῆς τῷ δέρματι προσεχομένης ταῦτα δὲ συνέκειτο δοθῆναι
                         <sic>ἀρίστια</sic> τὸ πρῶτον βαλόντι τὸν σῦν: λαβὼν δὲ αὐτὰ ὁ <persName n="urn:cite2:hmt:pers.v1:pers312"
                            >Μελέαγρος</persName>, ἐδωρήσατο <persName n="urn:cite2:hmt:pers.v1:pers352"
-                           >Ἀταλαντι</persName> τῇ <persName n="urn:cite2:hmt:pers.v1:pers645">Ϊάσου</persName>
+                           >Ἀταλαντι</persName> τῇ <persName n="urn:cite2:hmt:pers.v1:pers351">Ϊάσου</persName>
                         <placeName n="urn:cite2:hmt:place.v1:place10">Ἀρκάδι</placeName> τὸ γένος: λοχήσαντες δὲ αὐτὴν οἱ
                         μή <rs type="ethnic" n="urn:cite2:hmt:place.v1:place15">Τρωες</rs> τοῦ <persName n="urn:cite2:hmt:pers.v1:pers312"
                            >Μελεάγρου</persName> ἀφείλαντο τὰ γέρα τῆς κόρης, ἐφ ᾧ οργισθεὶς ὁ
@@ -3923,8 +3922,8 @@ style simple scholia" alternate="no"?>
                   </div>
                   <div n="comment">
                      <p><persName n="urn:cite2:hmt:pers.v1:pers1273">Κλεοπάτρα</persName>
-                        <persName n="urn:cite2:hmt:pers.v1:pers488">Ἴδα</persName> καὶ <persName n="urn:cite2:hmt:pers.v1:pers486"
-                           >Μαρπήσσης</persName> τῆς <persName n="urn:cite2:hmt:pers.v1:pers487">Εὐήνου</persName> θυγάτηρ
+                        <persName n="urn:cite2:hmt:pers.v1:pers351">Ἴδα</persName> καὶ <persName n="urn:cite2:hmt:pers.v1:pers1282"
+                           >Μαρπήσσης</persName> τῆς <persName n="urn:cite2:hmt:pers.v1:pers1283">Εὐήνου</persName> θυγάτηρ
                         γυνὴ δὲ <persName n="urn:cite2:hmt:pers.v1:pers312">Μελεάγρου</persName></p>
                   </div>
                </div>
@@ -3936,30 +3935,30 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:9.562</p>
                   </div>
                   <div n="comment">
-                     <p><persName n="urn:cite2:hmt:pers.v1:pers646">Κῆϋξ</persName> ὁ <persName n="urn:cite2:hmt:pers.v1:pers648"
-                           >Φωσφόρου</persName> τοῦ ἀστερος, γήμας <persName n="urn:cite2:hmt:pers.v1:pers688"
+                     <p><persName n="urn:cite2:hmt:pers.v1:pers1284">Κῆϋξ</persName> ὁ <persName n="urn:cite2:hmt:pers.v1:pers1285"
+                           >Φωσφόρου</persName> τοῦ ἀστερος, γήμας <persName n="urn:cite2:hmt:pers.v1:pers1273"
                            >Ἀλκύονην</persName> τὴν <placeName n="urn:cite2:hmt:place.v1:place126">Αἰόλου</placeName> μεγά
                         φρονήσας ἐφ ἑαυτῷ. θεὸς ἐβουλευετο νομίζεσθαι, δι ὅ περ ἥ τε γαμετηον δια
                         παντὸς εκάλει <persName n="urn:cite2:hmt:pers.v1:pers8">Διά</persName> αὐτον κακεῖνος <persName
                            n="urn:cite2:hmt:pers.v1:pers116">Ἥραν</persName> τὴν γυναῖκα, <persName n="urn:cite2:hmt:pers.v1:pers8"
                            >Ζεὺς</persName> δὲ ἀγανακτήσας, μετέβαλαν αὐτοὺς εἰς ὄρνεα χωρὶς ἀλλήλων
-                        βιοῦντα ἐκλήθη δὲ ἡμεν <persName n="urn:cite2:hmt:pers.v1:pers688">Ἀλκυόνη</persName> ὁ δὲ
-                           <persName n="urn:cite2:hmt:pers.v1:pers646">Κήυξ</persName> παρα δὲ τοῖς <sic>αἱγιαλοῖς</sic> τῆς
-                           <persName n="urn:cite2:hmt:pers.v1:pers688">Ἀλκυόνης</persName> τικτούσης συμβαίνει, ἐπελθόντα
+                        βιοῦντα ἐκλήθη δὲ ἡμεν <persName n="urn:cite2:hmt:pers.v1:pers1273">Ἀλκυόνη</persName> ὁ δὲ
+                           <persName n="urn:cite2:hmt:pers.v1:pers1284">Κήυξ</persName> παρα δὲ τοῖς <sic>αἱγιαλοῖς</sic> τῆς
+                           <persName n="urn:cite2:hmt:pers.v1:pers1273">Ἀλκυόνης</persName> τικτούσης συμβαίνει, ἐπελθόντα
                         τὰ κύματα τὰδε ἔγγονα αυτης κατασύρειν: <persName n="urn:cite2:hmt:pers.v1:pers8">Ζεὺς</persName>
                         δὲ θεασάμενος αὐτὴν κλαίουσαν κατελεήσας, ἐπέταξε τοῖς ἀνέμοις. καθ ὸν ἂν
                         καιρὸν ἡ <persName n="urn:cite2:hmt:pers.v1:pers1273">Ἀλκυόνη</persName> παρα τὸ ἐν αλὶ κύειν: οἱ
                         οὖν γονεῖς ἀπο τῶν αὐτοῖς συμβεβηκότων τὴν <persName n="urn:cite2:hmt:pers.v1:pers1273"
                            >Κλεοπάτραν</persName>: οὕτω <sic>ἑκάλουν</sic> ὡς <persName n="urn:cite2:hmt:pers.v1:pers382"
-                           >Μέγαπένθην</persName> καὶ <persName n="urn:cite2:hmt:pers.v1:pers683">Εὐρυσάκη</persName>
-                        <persName n="urn:cite2:hmt:pers.v1:pers118">Ὀδυσσέα</persName> καὶ <persName n="urn:cite2:hmt:pers.v1:pers647"
+                           >Μέγαπένθην</persName> καὶ <persName n="urn:cite2:hmt:pers.v1:pers1286">Εὐρυσάκη</persName>
+                        <persName n="urn:cite2:hmt:pers.v1:pers118">Ὀδυσσέα</persName> καὶ <persName n="urn:cite2:hmt:pers.v1:pers796"
                            >Νεοπτόλεμον</persName>. <cit>
                            <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:9.440</ref>
                            <q>οὔπω</q>
                         </cit> γὰρ <cit>
                            <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:9.440</ref>
                            <q>εἰδόθ' ὁμοιΐου πτολέμοιο</q>
-                        </cit> ἔκλαιεν οὖν τὸν ἄνδρα <placeName n="urn:cite2:hmt:pers.v1:pers488">Ί̈δαν</placeName> ὅτι
+                        </cit> ἔκλαιεν οὖν τὸν ἄνδρα <placeName n="urn:cite2:hmt:pers.v1:pers351">Ί̈δαν</placeName> ὅτι
                         αὐτην ἀνήρπασεν <persName n="urn:cite2:hmt:pers.v1:pers40">Ἀπόλλων</persName> ἠ ἡ <choice>
                            <abbr>μηρ</abbr>
                            <expan>μήτηρ</expan>
@@ -3981,7 +3980,7 @@ style simple scholia" alternate="no"?>
                            <abbr>μρά</abbr>
                            <expan>μήτρα</expan>
                         </choice>
-                        <persName n="urn:cite2:hmt:pers.v1:pers486">Μάρπησσαν</persName> δίκην <persName n="urn:cite2:hmt:pers.v1:pers1273"
+                        <persName n="urn:cite2:hmt:pers.v1:pers1282">Μάρπησσαν</persName> δίκην <persName n="urn:cite2:hmt:pers.v1:pers1273"
                            >Ἀλκυόνος</persName> κλαῦσαι ὅτε ἀφῃρεῖτο αὐτὴν ὁ <persName n="urn:cite2:hmt:pers.v1:pers40"
                            >Ἀπόλλων</persName>⁑</p>
                   </div>
@@ -4278,7 +4277,7 @@ style simple scholia" alternate="no"?>
                      <p>ὅτι ἄμαθον ποιεῖ, οὕτως δὲ λέγει τὴν πεδιάσιμον κόνιν: ὁ δὲ <persName n="urn:cite2:hmt:pers.v1:pers225"><choice>
                            <abbr>Αισχυ</abbr>
                            <expan>Αἰσχύλος</expan>
-                        </choice></persName> επὶ τοῦ διαφθείρειν ψιλῶς τέταχε περι τοῦ <persName n="urn:cite2:hmt:pers.v1:pers686"
+                        </choice></persName> επὶ τοῦ διαφθείρειν ψιλῶς τέταχε περι τοῦ <persName n="urn:cite2:hmt:pers.v1:pers1104"
                            >Ἀκταίωνος</persName> λέγων <q>κύνες διημάθυνον ἄνδρα δεσπότην</q> ⁑</p>
                   </div>
                </div>

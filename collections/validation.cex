@@ -20,10 +20,10 @@ urn:cite2:hmt:msA.v1:120v#passes
 urn:cite2:hmt:msA.v1:121r#passes
 urn:cite2:hmt:msA.v1:121v#passes
 urn:cite2:hmt:msA.v1:122r#passes
-urn:cite2:hmt:msA.v1:122v#rerun
-urn:cite2:hmt:msA.v1:123r#rerun
-urn:cite2:hmt:msA.v1:123v#rerun
-urn:cite2:hmt:msA.v1:124r#rerun
+urn:cite2:hmt:msA.v1:122v#passes
+urn:cite2:hmt:msA.v1:123r#DENSE pers names, place names and DSE good
+urn:cite2:hmt:msA.v1:123v#passes
+urn:cite2:hmt:msA.v1:124r#passes
 urn:cite2:hmt:msA.v1:124v#rerunCAREFULLY
 urn:cite2:hmt:msA.v1:125r#DOES NOT VALIDATE
-urn:cite2:hmt:msA.v1:125v#
+urn:cite2:hmt:msA.v1:125v#passes
